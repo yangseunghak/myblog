@@ -3,7 +3,7 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: cyberpunk
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: /img/titlelogo.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -225,13 +225,13 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: 양승학 교육용 블로그
         # Author title
-        author_title: Your title
+        author_title: Git Blog study
         # Author's current location
-        location: 프로그래밍 수업용
+        location: 휴먼교육센터
         # URL or path to the avatar image
-        avatar: /img/instargram.png
+        avatar: /img/mong.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
