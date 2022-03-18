@@ -1,7 +1,13 @@
 ---
 title: "이카루스 사이버펑크 테마 적용하기"
 author: "seunghak"
+except: 교육용 자료
 date: '2022-03-13'
+categories:교육용자료
+tag:
+ -이카루스
+ -사이버펑크
+ -테마
 ---
 # icarus cyberpunk
 
